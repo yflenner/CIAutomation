@@ -13,5 +13,17 @@
       <class name="demo.Example"/>
     </classes>
   </test>
+  <test name="Sanity on Firefox">
+    <parameter name="browserName" value="firefox" />
+    <classes>
+      <class name="demo.Example"/>
+    </classes>
+  </test>
+  <test name="Sanity on Firefox">
+    <parameter name="browserName" value="firefox" />
+    <classes>
+      <class name="demo.Example"/>
+    </classes>
+  </test>
 </suite>
 

@@ -18,7 +18,7 @@ import static org.testng.Assert.assertEquals;
 public class Example {
 
     private WebDriver driver;
-    
+
 
 //    @BeforeClass
 //    @Parameters({"browserName"})
